@@ -1,4 +1,4 @@
 # harshifirst
 This is a first Git repository
 <br>
-Author : Harshini Sharma
+Author : Harshini Jangid
